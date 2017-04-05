@@ -22,6 +22,9 @@ Style/ClassCheck:
 Style/Documentation:
   Enabled: false
 
+Style/MultilineMethodCallIndentation:
+  EnforcedStyle: indented_relative_to_receiver
+
 Metrics/MethodLength:
   Max: 20
 
